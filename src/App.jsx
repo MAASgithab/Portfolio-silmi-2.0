@@ -343,7 +343,7 @@ export default function App() {
         <div className="">
           <div className="grid grid-cols-5 grid-rows-4 gap-4 justify-items-center">
             <div className="col-start-3 row-start-2">
-              <a href="https://github.com/MAASgithab">
+              <a href="https://github.com/MAASgithab/Portfolio-silmi-2.0">
                 <img
                   src="src\assets\Github-desktop-logo-symbol.svg"
                   alt=""
