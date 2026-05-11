@@ -21,7 +21,7 @@ export default function App() {
             </div>
             <div className="col-span-2 row-span-4 col-start-3 row-start-3 border-3 border-gray-300 p-3 rounded-full ms-2 shadow-black shadow-md">
               <img
-                src="src\assets\12410486 3087800834 Muhammad Abdurrahim As-Silmi.jpg"
+                src="/assets/12410486 3087800834 Muhammad Abdurrahim As-Silmi.jpg"
                 alt=""
                 className="rounded-full h-full object-cover scale-95"
               />
@@ -96,7 +96,7 @@ export default function App() {
           <div className="grid grid-cols-6 grid-rows-2 gap-4 mt-20">
             <div className="text-center text-3xl flex flex-col items-center gap-6 font-bold">
               <img
-                src="src\assets\Figma-logo.svg"
+                src="/assets/Figma-logo.svg"
                 alt=""
                 className="size-24 grayscale-100 hover:filter-none duration-500 ease-in-out hover:scale-125"
               />
@@ -104,7 +104,7 @@ export default function App() {
             </div>
             <div className="text-center text-3xl flex flex-col items-center gap-6 font-bold">
               <img
-                src="src\assets\logo-mysql-170x115.png"
+                src="/assets/logo-mysql-170x115.png"
                 alt=""
                 className="h-24 w-36 grayscale-100 hover:filter-none duration-500 ease-in-out hover:scale-125"
               />
@@ -112,7 +112,7 @@ export default function App() {
             </div>
             <div className="text-center text-3xl flex flex-col items-center gap-6 font-bold">
               <img
-                src="src\assets\HTML5_logo_and_wordmark.svg"
+                src="/assets/HTML5_logo_and_wordmark.svg"
                 alt=""
                 className="size-24 grayscale-100 hover:filter-none duration-500 ease-in-out hover:scale-125"
               />
@@ -120,7 +120,7 @@ export default function App() {
             </div>
             <div className="text-center text-3xl flex flex-col items-center gap-6 font-bold">
               <img
-                src="src\assets\React-icon.svg"
+                src="/assets/React-icon.svg"
                 alt=""
                 className="size-24 grayscale-100 hover:filter-none duration-500 ease-in-out hover:scale-125"
               />
@@ -128,7 +128,7 @@ export default function App() {
             </div>
             <div className="text-center text-3xl flex flex-col items-center gap-6 font-bold">
               <img
-                src="src\assets\Expressjs.png"
+                src="/assets/Expressjs.png"
                 alt=""
                 className="h-24 w-60 object-contain grayscale-100 hover:duration-500 ease-in-out hover:scale-125"
               />
@@ -136,7 +136,7 @@ export default function App() {
             </div>
             <div className="text-center text-3xl flex flex-col items-center gap-6 font-bold">
               <img
-                src="src\assets\Tailwind_CSS_Logo.svg"
+                src="/assets/Tailwind_CSS_Logo.svg"
                 alt=""
                 className="size-24 grayscale-100 hover:filter-none duration-500 ease-in-out hover:scale-125"
               />
@@ -193,7 +193,7 @@ export default function App() {
         <div className="flex justify-center mt-20 gap-4">
           <div>
             <img
-              src="src\assets\projects\Foodwise.png"
+              src="/assets/projects/Foodwise.png"
               alt=""
               className="scale-95"
             />
@@ -205,7 +205,7 @@ export default function App() {
           </div>
           <div>
             <img
-              src="src\assets\projects\Koliko Game Store.png"
+              src="/assets/projects/Koliko Game Store.png"
               alt=""
               className="scale-95"
             />
@@ -345,7 +345,7 @@ export default function App() {
             <div className="col-start-3 row-start-2">
               <a href="https://github.com/MAASgithab/Portfolio-silmi-2.0">
                 <img
-                  src="src\assets\Github-desktop-logo-symbol.svg"
+                  src="/assets/Github-desktop-logo-symbol.svg"
                   alt=""
                   className="grayscale-100 blur-sm transform transition duration-300 ease-in-out hover:filter-none hover:-translate-y-4"
                 />
@@ -354,7 +354,7 @@ export default function App() {
             <div className="col-start-4 row-start-2">
               <a href="https://www.instagram.com/abdurrahimaassilmi/">
                 <img
-                  src="src\assets\Instagram_logo_2022.svg"
+                  src="/assets/Instagram_logo_2022.svg"
                   alt=""
                   className="size-32 grayscale-100 blur-sm transform transition duration-300 ease-in-out hover:filter-none hover:-translate-y-4"
                 />
@@ -363,7 +363,7 @@ export default function App() {
             <div className="col-start-2 row-start-2">
               <a href="www.linkedin.com/in/muhammad-abdurrahim-as-silmi-739bb7380">
                 <img
-                  src="src\assets\LinkedIn_logo_initials.png"
+                  src="/assets/LinkedIn_logo_initials.png"
                   alt=""
                   className="size-32 grayscale-100 blur-sm transform transition duration-300 ease-in-out hover:filter-none hover:-translate-y-4"
                 />
