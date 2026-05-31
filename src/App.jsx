@@ -192,11 +192,13 @@ export default function App() {
         </p>
         <div className="flex justify-center mt-20 gap-4">
           <div>
-            <img
-              src="/assets/projects/Foodwise.png"
-              alt=""
-              className="scale-95"
-            />
+            <a href="https://github.com/MAASgithab/Capstone-Project-CC26---FoodWise">
+              <img
+                src="/assets/projects/Foodwise.png"
+                alt=""
+                className="scale-95"
+              />
+            </a>
             <div className="text-center">
               <p className="font-bold text-gray-400">Web Development</p>
               <br />
@@ -204,11 +206,13 @@ export default function App() {
             </div>
           </div>
           <div>
+            <a href="https://github.com/MAASgithab/Koliko-Store">
             <img
               src="/assets/projects/Koliko Game Store.png"
               alt=""
               className="scale-95"
-            />
+            />              
+            </a>
             <div className="text-center">
               <p className="font-bold text-gray-400">Web Development</p>
               <br />
@@ -244,9 +248,7 @@ export default function App() {
             <br />
             <ul>
               <li>
-                <p className="text-2xl">
-                  Basic Web Programming Certificate
-                </p>
+                <p className="text-2xl">Basic Web Programming Certificate</p>
                 <p>Dicoding Academy</p>
               </li>
               <br />
@@ -263,9 +265,7 @@ export default function App() {
             <br />
             <ul>
               <li>
-                <p className="text-2xl">
-                  Software Developer Certificate
-                </p>
+                <p className="text-2xl">Software Developer Certificate</p>
                 <p>Coding Camp Program</p>
               </li>
               <br />
@@ -284,9 +284,7 @@ export default function App() {
               </li>
               <br />
               <li>
-                <p className="text-2xl">
-                  Programming Logic 101 Certificate
-                </p>
+                <p className="text-2xl">Programming Logic 101 Certificate</p>
                 <p>Coding Camp Program</p>
               </li>
               <br />
@@ -305,9 +303,7 @@ export default function App() {
               </li>
               <br />
               <li>
-                <p className="text-2xl">
-                  Financial Literacy Certificate
-                </p>
+                <p className="text-2xl">Financial Literacy Certificate</p>
                 <p>Coding Camp Program</p>
               </li>
               <br />
